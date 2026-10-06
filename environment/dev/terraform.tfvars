@@ -8,6 +8,11 @@ rgs = {
     name     = "rg-prod"
     location = "centralindia"
   }
+
+   rg3 = {
+    name     = "rg-prod1234"
+    location = "centralindia"
+  }
 }
 
 
